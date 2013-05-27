@@ -1,0 +1,6 @@
+import java.util.Scanner;
+public static void magic() 
+{
+int hello = 1;
+Hello = there * there + hello;
+}
